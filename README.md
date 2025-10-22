@@ -138,6 +138,6 @@ footer {
 <article class="event"><div class="meta">13 Agosto 1521</div><div class="title">Caída de Tenochtitlan</div><div class="imgwrap"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Conquest_of_Tenochtitlan.jpg"/></div><div class="desc">Cuauhtémoc es capturado. El imperio mexica cae y comienza la dominación española.</div></article>
 </div>
 
-<footer>Fuentes: Wikimedia Commons, WorldHistory.org, Britannica. Línea de tiempo ilustrada con imágenes históricas reales.</footer>
+<footer></footer>
 </body>
 </html>
